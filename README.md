@@ -1,16 +1,37 @@
-### Hi there 👋
+### :wave: Olá, meu nome é Pedro Henrique!
 
-<!--
-**pedroplayer56/Pedroplayer56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/pedroplayer56/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroplayer56&show_icons=true&theme=dark&border_radius=8&card_width=45%" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/pedroplayer56/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroplayer56" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Linguagens que utilizo em meus projetos
+<div style="display: inline_block"><br>
+  <img align="center" alt="Antonio JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Antonio HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+ 
+</div>
+
+
+
+
+##
+
+### 🤩 Confira meu último projeto!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioandredev&repo=wheater-api)](https://github.com/antonioandredev/wheater-api)
+
+##
+
+![Snake animation](https://github.com/antonioandredev/antonioandredev/blob/output/github-contribution-grid-snake.svg)
