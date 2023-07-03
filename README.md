@@ -30,8 +30,8 @@
 ##
 
 ### 🤩 Confira meu último projeto!
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioandredev&repo=wheater-api)](https://github.com/antonioandredev/wheater-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedroplayer56&repo=Inteligencia-Artificial)](https://github.com/pedroplayer56/Inteligencia-Artificial)
 
 ##
 
-![Snake animation](https://github.com/antonioandredev/antonioandredev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pedroplayer56/pedroplayer56/blob/output/github-contribution-grid-snake.svg)
